@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yüksel Berk TARZAN</h1>
-<h3 align="center"> #Full-Stack Developer | Alaz Bilişim Co-Founder | Titan Bilişim Founder</h3>
+<h3 align="center"> #Full-Stack Developer | | Titan Bilişim Founder</h3>
 
 
 
